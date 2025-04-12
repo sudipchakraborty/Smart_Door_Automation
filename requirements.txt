@@ -1,0 +1,4 @@
+ultralytics
+deep_sort_realtime
+python-dotenv
+numpy==1.26.4
